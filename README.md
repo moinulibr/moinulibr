@@ -59,9 +59,10 @@ I actively contribute to both SaaS and ecommerce platforms and enjoy collaborati
 
 ## Contact Me
 
-- 📧 Email: [moinulislam47@gmail.com](mailto:moinulislam47@gmail.com)  
-- 📞 Phone: +353 85 102 3908  
-- 🔗 LinkedIn: [linkedin.com/in/moinulislam47](https://www.linkedin.com/in/moinulislam47/)  
+- 📧 Email: [moinulislam47@gmail.com](mailto:moinulibr@gmail.com)  
+- 📞 Phone: +880 1712-794033 
+- 🔗 LinkedIn: [linkedin.com/in/moinulibr](https://www.linkedin.com/in/moinulibr/)  
+- 🌐 Portfolio: [https://moinulibr.github.io/my-portfolio](https://moinulibr.github.io/my-portfolio)
 
 ---
 
