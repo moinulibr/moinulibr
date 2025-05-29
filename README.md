@@ -1,4 +1,4 @@
-# MD. Moinul Islam
+# Hello there! 👋🏻 MD. Moinul Islam!
 
 🚀 Backend Engineer | Laravel, PHP | NestJS, Node.js | Next.js, React, JavaScript
 
@@ -59,7 +59,7 @@ I actively contribute to both SaaS and ecommerce platforms and enjoy collaborati
 
 ## Contact Me
 
-- 📧 Email: [moinulislam47@gmail.com](mailto:moinulibr@gmail.com)  
+- 📧 Email: [moinulibr@gmail.com](mailto:moinulibr@gmail.com)  
 - 📞 Phone: +880 1712-794033 
 - 🔗 LinkedIn: [linkedin.com/in/moinulibr](https://www.linkedin.com/in/moinulibr/)  
 - 🌐 Portfolio: [https://moinulibr.github.io/my-portfolio](https://moinulibr.github.io/my-portfolio)
