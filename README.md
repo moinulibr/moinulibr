@@ -1,6 +1,6 @@
 # Hello there! 👋🏻 I am [Moinul Islam!](https://www.linkedin.com/in/moinulibr/)
 
-## A passionate backend engineer from Bangladesh with hands-on React and Next.js experience, committed to scalable and efficient solutions
+## A passionate backend engineer from Bangladesh
 
 Experienced Backend Engineer with a strong command over PHP, Laravel, Lumen, and scalable microservices architectures. Adept in developing complex backend solutions for SaaS platforms, eCommerce systems, and modular APIs. Proficient in integrating modern frontend frameworks like React.js, Next.js, and Vue.js to deliver seamless user experiences.
 
