@@ -1,10 +1,13 @@
 # Hello there! 👋🏻 I am [Moinul Islam!](https://www.linkedin.com/in/moinulibr/)
 
-## A passionate backend developer from Bangladesh
+## A passionate backend engineer from Bangladesh with hands-on React and Next.js experience, committed to scalable and efficient solutions
 
-Experienced Software Developer familiar with a wide range of programming utilities and languages. Knowledgeable of Full Stack (Backend and Frontend) and Mobile app development requirements. I am working as a developer since 2020 and I enjoy working on complex architecture systems with technologies.
+Experienced Backend Engineer with a strong command over PHP, Laravel, Lumen, and scalable microservices architectures. Adept in developing complex backend solutions for SaaS platforms, eCommerce systems, and modular APIs. Proficient in integrating modern frontend frameworks like React.js, Next.js, and Vue.js to deliver seamless user experiences.
 
-Along with my journey learning about Full Stack Development I have learned an increasing amount about accurate time estimation, accountability, project management, and the importance of proper communication with stakeholders.
+With over 4 years of hands-on development experience since 2020, I specialize in designing scalable, high-performance web applications and driving innovative solutions in cross-functional teams. My journey in full stack development has also honed my skills in time estimation, project management, and effective collaboration with clients and stakeholders.
+
+Open to discussing challenging backend-centric projects or full-stack collaborations that leverage my skills and passion for building efficient, maintainable, and robust web applications.
+
 
 Feel free to discuss any project related to my work experience and skills.
 
