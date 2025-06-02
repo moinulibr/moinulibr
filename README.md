@@ -52,7 +52,7 @@ Feel free to discuss any project related to my work experience and skills.
 <!-- Thanks for dropping by to view my profile. Have a nice day. -->
 
 ---
-<!---
+<!---  
 [![moinulibr](https://github-readme-stats.vercel.app/api?username=moinulibr&show_icons=true&locale=en)](https://github-readme-stats.vercel.app/api?username=moinulibr&show_icons=true&locale=en)
 
 [![moinulibr](https://github-readme-streak-stats.herokuapp.com/?user=moinulibr&)](https://github-readme-streak-stats.herokuapp.com/?user=moinulibr)
