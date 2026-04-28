@@ -7,17 +7,17 @@ I am a results-driven **Software Engineer** with 5+ years of experience speciali
 ---
 
 ### 🔭 Currently Focused On
-- [cite_start]**OmniShard-1B:** A high-performance sharded database architecture managing **1 Billion+ user records** with sub-second latency[cite: 138, 139].
-- [cite_start]**SaaS Platforms:** Leading backend development for the **AT SMS-Servicing SaaS** at Amharc Tech[cite: 147, 149].
-- [cite_start]**Automation:** Engineering real-time data sync services and billing automation[cite: 166, 178].
+- **OmniShard-1B:** A high-performance sharded database architecture managing **1 Billion+ user records** with sub-second latency.
+- **SaaS Platforms:** Leading backend development for the **AT SMS-Servicing SaaS** at Amharc Tech.
+- **Automation:** Engineering real-time data sync services and billing automation.
 
 ---
 
 ### ⚡ Featured Project: OmniShard-1B
 An R&D project focused on extreme scalability:
-- [cite_start]**Sharding & Routing:** Custom multi-shard MySQL environment with intelligent query routing[cite: 140].
-- [cite_start]**Performance:** Reduced database overhead by **90%** using Redis-backed stateless authentication.
-- [cite_start]**Resilience:** Implemented custom ID generation and cursor-based navigation for 100% data integrity[cite: 141, 143].
+- **Sharding & Routing:** Custom multi-shard MySQL environment with intelligent query routing.
+- **Performance:** Reduced database overhead by **90%** using Redis-backed stateless authentication.
+- **Resilience:** Implemented custom ID generation and cursor-based navigation for 100% data integrity.
 
 ---
 
@@ -48,12 +48,12 @@ An R&D project focused on extreme scalability:
 ---
 
 ### 💼 Career Highlights
-- [cite_start]**Software Engineer @ Amharc Tech:** Architecting microservices for job management and POS solutions[cite: 147, 156, 162].
-- [cite_start]**Lead Developer @ Ebaskat:** Built an automated dropshipping sync engine for 100% real-time product updates[cite: 163, 174].
-- [cite_start]**Full Stack @ Subscription Systems:** Integrated complex Stripe billing workflows and SPA dashboards[cite: 175, 183].
+- **Software Engineer @ Amharc Tech:** Architecting microservices for job management and POS solutions.
+- **Lead Developer @ Ebaskat:** Built an automated dropshipping sync engine for 100% real-time product updates.
+- **Full Stack @ Subscription Systems:** Integrated complex Stripe billing workflows and SPA dashboards.
 
 ### 📫 Reach Me At
-- [cite_start]📧 **Email:** moinulibr@gmail.com [cite: 130]
+- 📧 **Email:** moinulibr@gmail.com
 - 🌐 **Portfolio:** [moinulibr.github.io/my-portfolio](https://moinulibr.github.io/my-portfolio)
 - 🤝 **Connect:** [LinkedIn](https://www.linkedin.com/in/moinulibr/)
 
